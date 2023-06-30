@@ -27,10 +27,11 @@
 
 <p><img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=apollosuny&" alt="apollosuny" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apollosuny&show_icons=true&locale=en&layout=compact" alt="apollosuny" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=apollosuny&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github" alt="apollosuny" /></p>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apollosuny&show_icons=true&locale=en&layout=compact" alt="apollosuny" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apollosuny&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github" alt="apollosuny" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apollosuny&" alt="apollosuny" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apollosuny&column=7&margin-w=15" alt="apollosuny" /></a> </p>
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
