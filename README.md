@@ -1,15 +1,15 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://portfolio-one-plum-89.vercel.app/)
 <h1 align="center">Hi 👋, I'm Tran Bao Trung</h1>
-<h3 align="center">A passionate backend developer from Vietnam</h3>
+<h3 align="center">A passionate web developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apollosuny&label=Profile%20views&color=0e75b6&style=flat" alt="apollosuny" /> </p>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **NextJS, NestJS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-one-plum-89.vercel.app/](https://portfolio-one-plum-89.vercel.app/)
 
-- 💬 Ask me about **React, NodeJS, Express**
+- 💬 Ask me about **ReactJS, NestJS, Python**
 
 - 📫 How to reach me **baotrung06092003@gmail.com**
 
