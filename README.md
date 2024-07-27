@@ -34,6 +34,6 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
-<p><img width=390 align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react" alt="apollosuny" /></p>
+<p><img width=390 align="left" src="https://github-readme-stats.vercel.app/api?username=apollosuny&show_icons=true&theme=react" alt="apollosuny" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=apollosuny&theme=react&border_radius=5&card_width=390&card_height=162" alt="apollosuny" /></p>
