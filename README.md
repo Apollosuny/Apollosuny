@@ -1,11 +1,14 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b0f14,100:4aa8ff&text=Tr%E1%BA%A7n%20B%E1%BA%A3o%20Trung&fontColor=e6edf5&fontSize=46&fontAlignY=36&desc=apollosuny%20%C2%B7%20Software%20Engineer%20%C2%B7%20Hanoi&descAlignY=58&descSize=16&animation=fadeIn" alt="Trần Bảo Trung" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=180&color=0:0b0f14,100:1f6feb&text=Tr%E1%BA%A7n%20B%E1%BA%A3o%20Trung&fontColor=e6edf5&fontSize=46&fontAlignY=36&desc=apollosuny%20%C2%B7%20Software%20Engineer%20%C2%B7%20Hanoi&descAlignY=58&descSize=16&animation=fadeIn" alt="Trần Bảo Trung" />
 </p>
 
 <p align="center">
   <a href="https://apollosuny-portfolio.pages.dev/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=4AA8FF&center=true&vCenter=true&width=620&lines=Backend+systems%2C+built+to+scale.;From+the+first+diagram+to+the+pipeline+that+ships+it.;APIs+%C2%B7+Cloud+%C2%B7+Cross-chain+%C2%B7+AI;AWS+Certified+Solutions+Architect+%E2%80%94+Associate" alt="Typing intro" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=4AA8FF&center=true&vCenter=true&width=620&lines=Backend+systems%2C+built+to+scale.;From+the+first+diagram+to+the+pipeline+that+ships+it.;APIs+%C2%B7+Cloud+%C2%B7+Cross-chain+%C2%B7+AI;AWS+Certified+Solutions+Architect+%E2%80%94+Associate" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=620&lines=Backend+systems%2C+built+to+scale.;From+the+first+diagram+to+the+pipeline+that+ships+it.;APIs+%C2%B7+Cloud+%C2%B7+Cross-chain+%C2%B7+AI;AWS+Certified+Solutions+Architect+%E2%80%94+Associate" alt="Typing intro" />
+    </picture>
   </a>
 </p>
 
@@ -27,7 +30,7 @@ const trung = {
   basedIn: "Hanoi, Vietnam 🇻🇳",
   experience: "2+ years — architecture, APIs, data, cloud & CI/CD",
   certified: ["AWS Certified Solutions Architect — Associate (SAA-C03)"],
-  education: "B.Sc. MIS · VNU International School · GPA 3.52/4.0",
+  education: "B.Sc. MIS · VNU International School",
   caresAbout: ["clean boundaries", "stateless services", "code the next engineer can read"],
   askMeAbout: ["system design", "edge / serverless", "Web3 infra", "LLM-powered products"],
 } as const;
@@ -72,7 +75,7 @@ const trung = {
 + 10.2022     Tech Department Lead @ ISTECH Club            (→ 07.2025)
 !             Set technical direction for club web projects, mentored members through real builds
 + 09.2021     B.Sc. Management Information Systems @ VNU-IS  (→ 07.2025)
-!             GPA 3.52 / 4.0 · Merit-based scholarship, 3 consecutive semesters
+!             Merit-based scholarship, 3 consecutive semesters
 ```
 
 ---
@@ -108,4 +111,4 @@ const trung = {
   <img src="https://komarev.com/ghpvc/?username=apollosuny&label=profile%20views&color=4aa8ff&style=flat-square" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:4aa8ff,100:0b0f14" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&color=0:1f6feb,100:0b0f14" width="100%" alt="" />
