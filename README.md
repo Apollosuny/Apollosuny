@@ -1,13 +1,13 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=180&color=0:0b0f14,100:1f6feb&text=Tr%E1%BA%A7n%20B%E1%BA%A3o%20Trung&fontColor=e6edf5&fontSize=46&fontAlignY=36&desc=apollosuny%20%C2%B7%20Software%20Engineer%20%C2%B7%20Hanoi&descAlignY=58&descSize=16&animation=fadeIn" alt="Trần Bảo Trung" />
+  <img src="./assets/header.svg" width="100%" alt="$ whoami — Trần Bảo Trung · Software Engineer @ CyberK · Hanoi" />
 </p>
 
 <p align="center">
   <a href="https://apollosuny-portfolio.pages.dev/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=4AA8FF&center=true&vCenter=true&width=620&lines=Backend+systems%2C+built+to+scale.;From+the+first+diagram+to+the+pipeline+that+ships+it.;APIs+%C2%B7+Cloud+%C2%B7+Cross-chain+%C2%B7+AI;AWS+Certified+Solutions+Architect+%E2%80%94+Associate" />
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=620&lines=Backend+systems%2C+built+to+scale.;From+the+first+diagram+to+the+pipeline+that+ships+it.;APIs+%C2%B7+Cloud+%C2%B7+Cross-chain+%C2%B7+AI;AWS+Certified+Solutions+Architect+%E2%80%94+Associate" alt="Typing intro" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=4AA8FF&center=true&vCenter=true&width=620&lines=Backend+systems%2C+built+to+scale.;From+the+first+diagram+to+the+pipeline+that+ships+it.;APIs+%C2%B7+Cloud+%C2%B7+Cross-chain+%C2%B7+AI" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=620&lines=Backend+systems%2C+built+to+scale.;From+the+first+diagram+to+the+pipeline+that+ships+it.;APIs+%C2%B7+Cloud+%C2%B7+Cross-chain+%C2%B7+AI" alt="Typing intro" />
     </picture>
   </a>
 </p>
@@ -25,12 +25,8 @@
 
 ```ts
 const trung = {
-  handle: "apollosuny",
-  role: "Software Engineer @ CyberK",
   basedIn: "Hanoi, Vietnam 🇻🇳",
-  experience: "2+ years — architecture, APIs, data, cloud & CI/CD",
-  certified: ["AWS Certified Solutions Architect — Associate (SAA-C03)"],
-  education: "B.Sc. MIS · VNU International School",
+  focus: ["backend systems", "cloud infrastructure", "AI products"],
   caresAbout: ["clean boundaries", "stateless services", "code the next engineer can read"],
   askMeAbout: ["system design", "edge / serverless", "Web3 infra", "LLM-powered products"],
 } as const;
@@ -45,18 +41,7 @@ const trung = {
 
 ---
 
-## 🏗️ Selected work — *four systems, in production*
-
-| # | Project | What it is | Key technical call | Stack |
-|:-:|---|---|---|---|
-| 01 | **[VisibleBrands](https://www.visiblebrands.ai)** | AI visibility (AEO) platform — audits how ChatGPT, Gemini & Perplexity see a brand and turns gaps into a prioritized fix list | Repeatable, aggregated prompt runs instead of one-off queries → scores stay comparable week to week | `Next.js` `TypeScript` `LLM APIs` `Crawlers` `Vercel` |
-| 02 | **Ghola** <sub>private beta</sub> | AI companion that checks in daily, remembers what matters and celebrates your small wins | **One Durable Object per user** — no shared DB + cache, no races, no central DB on the hot path | `Hono` `Cloudflare Workers` `Durable Objects` `R2` |
-| 03 | **[Oracler V2](https://oracler.co)** | Cross-chain swap & send in one unified flow | One adapter layer normalizing every third-party provider behind a single internal interface | `Next.js` `NestJS` `PostgreSQL` `Redis` `Docker` |
-| 04 | **AI-MI** <sub>sunset 2025</sub> | Token launchpad on EVM — every token ships with its own OpenAI-powered agent | Infrastructure as code from day one — every GCP resource in Terraform | `React` `NestJS` `OpenAI` `GCP` `Terraform` |
-
-<p align="right"><a href="https://apollosuny-portfolio.pages.dev/">Full case studies → portfolio ↗</a></p>
-
-### 📦 Open source
+## 📦 Open source
 
 <a href="https://github.com/Apollosuny/react-truncate"><img src="https://img.shields.io/npm/v/@apollosuny/react-truncate?style=flat-square&color=4aa8ff&label=%40apollosuny%2Freact-truncate" alt="npm version" /></a>
 <a href="https://react-truncate-alpha.vercel.app"><img src="https://img.shields.io/badge/demo-live-0b0f14?style=flat-square" alt="Live demo" /></a>
@@ -66,26 +51,11 @@ const trung = {
 
 ---
 
-## 📜 `$ git log --career`
-
-```diff
-+ 2026        AWS Certified Solutions Architect — Associate (SAA-C03)
-+ 10.2023 →   Software Engineer @ CyberK Company Limited
-!             Architecture, APIs and cloud delivery for AI and Web3 products
-+ 10.2022     Tech Department Lead @ ISTECH Club            (→ 07.2025)
-!             Set technical direction for club web projects, mentored members through real builds
-+ 09.2021     B.Sc. Management Information Systems @ VNU-IS  (→ 07.2025)
-!             Merit-based scholarship, 3 consecutive semesters
-```
-
----
-
 ## 🧰 The toolbox
 
 | Layer | Tools |
 |---|---|
-| **System design** | Layered architecture · Modular monolith · RESTful APIs · Stateless services · Caching · Async processing |
-| **Application & API** | <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,nextjs,react,vite&theme=dark" alt="App & API" /> &nbsp;+ Hono |
+| **Application & API** | <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,nextjs,react,vite&theme=dark" alt="App & API" /> |
 | **Data & caching** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="Data" /> |
 | **Cloud & platform** | <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,workers,terraform,docker,githubactions&theme=dark" alt="Cloud" /> |
 
@@ -111,4 +81,4 @@ const trung = {
   <img src="https://komarev.com/ghpvc/?username=apollosuny&label=profile%20views&color=4aa8ff&style=flat-square" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&color=0:1f6feb,100:0b0f14" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />
