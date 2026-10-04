@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="https://apollosuny-portfolio.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=cloudflarepages&logoColor=4aa8ff" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/apollosuny/"><img src="https://img.shields.io/badge/LinkedIn-0b0f14?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzRhYThmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM0VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
   <a href="mailto:baotrung06092003@gmail.com"><img src="https://img.shields.io/badge/Email-0b0f14?style=for-the-badge&logo=gmail&logoColor=4aa8ff" alt="Email" /></a>
   <a href="https://www.credly.com/badges/834f1f9b-7626-4fba-9967-ef62c720b21d"><img src="https://img.shields.io/badge/AWS_SAA--C03-0b0f14?style=for-the-badge&logo=credly&logoColor=ff9900" alt="AWS Certified Solutions Architect — Associate" /></a>
